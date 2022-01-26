@@ -16,4 +16,4 @@ try:
 except:
     print(":(")
 
-api.update_status("made a janky little thing to post tweets via code editor/terminal... coding/API knowledge very much required lol... have fun https://github.com/sophiehelf/time_to_log_off")
+api.update_status("write tweet here :)")
