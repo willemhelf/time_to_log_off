@@ -1,5 +1,5 @@
 # Time to Log Off
-#### Python script that lets you tweet straight from your code editor because I literally never want to log into Twitter again lol. I might tweak this to be able to upload media at some point
+#### Python script that lets you tweet straight from your code editor.
 
 ##### How to use it
 
