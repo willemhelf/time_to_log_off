@@ -1,6 +1,6 @@
 # Time to Log Off
 #### Python script that lets you tweet straight from your code editor or teminal. 
-## Sadly this is no longer useable with the free Twitter API :(
+##### Sadly this is no longer useable with the free Twitter API :(
 
 ##### How to use it
 
